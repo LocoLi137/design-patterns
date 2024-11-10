@@ -31,6 +31,6 @@ public class Citation implements Cloneable {
     }
 
     public void show() {
-        System.out.println(stu.getName() + "同学：在2020学年第一学期中表现优秀，被评为三好学生。特发此状！");
+        System.out.println(stu.getName() + "同学：在本学年第一学期中表现优秀，被评为三好学生。特发此状！");
     }
 }
