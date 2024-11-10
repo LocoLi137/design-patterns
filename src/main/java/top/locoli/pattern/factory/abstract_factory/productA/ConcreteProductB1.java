@@ -1,4 +1,6 @@
-package top.locoli.pattern.factory.abstract_factory;
+package top.locoli.pattern.factory.abstract_factory.productA;
+
+import top.locoli.pattern.factory.abstract_factory.productB.ProductB;
 
 /**
  * @description: 具体产品B1类，实现ProductB接口
